@@ -1,0 +1,14 @@
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\bin\Debug\net7.0\AP2TESTE.exe
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\bin\Debug\net7.0\AP2TESTE.deps.json
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\bin\Debug\net7.0\AP2TESTE.runtimeconfig.json
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\bin\Debug\net7.0\AP2TESTE.dll
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\bin\Debug\net7.0\AP2TESTE.pdb
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\AP2TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\AP2TESTE.AssemblyInfoInputs.cache
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\AP2TESTE.AssemblyInfo.cs
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\AP2TESTE.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\AP2TESTE.dll
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\refint\AP2TESTE.dll
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\AP2TESTE.pdb
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\AP2TESTE.genruntimeconfig.cache
+C:\Users\conta\Desktop\NATALLY\PESSOAL\AP2TESTE\obj\Debug\net7.0\ref\AP2TESTE.dll
